@@ -1,0 +1,25 @@
+{
+  "name":"Instaling",
+  "short_name":"IS",
+  "start_url":".",
+  "display":"standalone",
+  "background_color" :"#57606f",
+  "description":"learning APP",
+  "icons":[
+      {
+        "src":"icons/img-192.png",
+        "sizes":"192x192",
+        "type":"image/png"
+      },
+      {
+        "src":"icons/img-512.png",
+        "sizes":"512x512",
+        "type":"image/png"
+      },
+      {
+        "src":"icons/img-144.png",
+        "sizes":"144x144",
+        "type":"image/png"
+      }
+  ]
+}
