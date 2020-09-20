@@ -357,7 +357,7 @@ country of origin - kraj pochodzenia,
                                                     mounstache - wąsy,
                                                     piercing - kolczyk,
                                                      scar - blizna,
-                                                      tattoo - tatuaż,`
+                                                      tattoo - tatuaż`
         ],
         //Pazdziernik
         [
