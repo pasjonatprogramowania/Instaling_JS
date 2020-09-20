@@ -4,7 +4,7 @@
 var monthData = new Date()
 var monthNumber;
 var currentMonth;
-var wordLength = [75, 63, 51, 96, 96, 96, 96, 96, 59, 96, 78, 96];
+var wordLength = [75, 63, 51, 96, 96, 96, 96, 96, 118, 96, 78, 96];
 var randomNumber = [];
 var gameCounter = 20;
 var wordAng = [];
