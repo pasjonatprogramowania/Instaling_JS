@@ -326,9 +326,10 @@ funloving-lubiący dobrą zabawe`
     for (i = 0; i < splitedWord.length; i++) {
         splitedWord[i] = splitedWord[i].trim();
         if (i % 2 == 0) {
-            wordPl.push(splitedWord[i]);
-        } else {
             wordAng.push(splitedWord[i]);
+        } else {
+            
+            wordPl.push(splitedWord[i]);
         }
     }
     localStorage.setItem("wordAng", JSON.stringify(wordAng));
